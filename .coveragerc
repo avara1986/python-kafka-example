@@ -1,0 +1,8 @@
+[run]
+include=
+    *project/*
+omit =
+    *example/*
+    .tox/*
+    tests/*
+    venv/*
